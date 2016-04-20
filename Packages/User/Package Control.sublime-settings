@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "172.144.255.231:3128",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"42 Headers",
+		"DiffView",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"GitGutter",
+		"HTMLBeautify",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Materialize",
+		"Materialize-Appbar",
+		"Package Control",
+		"PHP Completions Kit",
+		"PHPIntel",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sqlint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SummitLinter",
+		"Xdebug Client"
+	]
+}

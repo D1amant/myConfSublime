@@ -1,0 +1,9 @@
+
+{
+
+	 "break_on_exception": [
+      
+        // 0
+        "Xdebug"
+        ],
+}
