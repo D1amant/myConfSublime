@@ -1,14 +1,10 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 12,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme",
-	  // Display file encoding in the status bar
-    "show_encoding": true,
-
-    // Display line endings in the status bar
-    "show_line_endings": true,
+	"show_encoding": true,
+	"show_line_endings": true
 }

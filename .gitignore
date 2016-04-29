@@ -1,3 +1,7 @@
 Cache/
 Local/Session.sublime_session
 Index/
+Packages/User/Package Control.cache/
+.log
+Packages/User/Package Control.last-run
+*.log
