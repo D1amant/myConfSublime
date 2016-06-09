@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-OceanicNext (SL).tmTheme",
 	"font_size": 13,
 	"ignored_packages":
 	[
@@ -7,5 +7,5 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	 "theme": "Seti.sublime-theme"
+	    "theme": "Seti.sublime-theme"
 }
