@@ -6,5 +6,6 @@
 		"Vintage"
 	],
 	"show_encoding": true,
-	"show_line_endings": true
+	"show_line_endings": true,
+	 "theme": "Seti.sublime-theme"
 }

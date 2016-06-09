@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/var/www/html/utilsphp",
 		"/var/www/html/templete",
 		"/var/www/html/maisquitanda",
 		"/var/www/html/wyfit",
@@ -9,7 +10,7 @@
 		"/var/www/html/ajax"
 	],
 	"last_version": 3114,
-	"last_window_id": 11,
+	"last_window_id": 12,
 	"log_indexing": false,
 	"settings":
 	{
@@ -92,10 +93,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 201.0,
-				"last_filter": "install",
+				"height": 369.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -169,7 +174,7 @@
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 467.0
+				"width": 392.0
 			},
 			"console":
 			{
@@ -189,6 +194,7 @@
 			},
 			"file_history":
 			[
+				"/home/luis/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/var/www/html/maisquitanda/admin/model/catalog/dayOff.php",
 				"/var/www/html/maisquitanda/admin/view/template/catalog/dayOff_form.tpl",
 				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/product/bundle_gifts.tpl",
@@ -228,7 +234,6 @@
 				"/var/www/html/maisquitanda/admin/controller/catalog/manufacturer.php",
 				"/var/www/html/maisquitanda/admin/model/catalog/manufacturer.php",
 				"/var/www/html/maisquitanda/admin/view/template/common/footer.tpl",
-				"/home/luis/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/var/www/html/maisquitanda/admin/view/journal2/tpl/settings/footer.tpl",
 				"/var/www/html/maisquitanda/catalog/view/theme/default/template/common/footer.tpl",
 				"/var/www/html/maisquitanda/install/view/template/footer.tpl",
@@ -1559,8 +1564,8 @@
 								"selection":
 								[
 									[
-										301,
-										301
+										1484,
+										1484
 									]
 								],
 								"settings":
@@ -1569,7 +1574,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 660.0,
+								"translation.y": 638.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2168,6 +2173,1053 @@
 			{
 			},
 			"window_id": 7,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"st",
+						"style	Tag"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"img",
+						"img_campaign"
+					],
+					[
+						"max",
+						"maxlength	Attr"
+					],
+					[
+						"o",
+						"option	Tag"
+					],
+					[
+						"se",
+						"select	Tag"
+					],
+					[
+						"t",
+						"text	.text()"
+					],
+					[
+						"val",
+						"validation"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"s",
+						"size	.size()"
+					],
+					[
+						"l",
+						"log	JS - Log to console"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"var",
+						"var_dump"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/luis/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 215,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 369.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"iden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"side ",
+						"View: Toggle Side Bar"
+					],
+					[
+						"idente",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"colo",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"colore",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"diff",
+						"Diff View: Show uncommitted changes"
+					],
+					[
+						"ide",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"remoce",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/var/www/html/utilsphp"
+			],
+			"file_history":
+			[
+				"/var/www/html/utilsphp/README.md",
+				"/home/luis/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/var/www/html/maisquitanda/admin/model/catalog/dayOff.php",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/dayOff_form.tpl",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/product/bundle_gifts.tpl",
+				"/var/www/html/maisquitanda/catalog/controller/product/bundle.php",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/css/custom.min.css",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/common/header.tpl",
+				"/var/www/html/maisquitanda/admin/controller/catalog/commemorativeDates.php",
+				"/var/www/html/maisquitanda/admin/model/catalog/commemorativeDates.php",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/commemorativeDates_list.tpl",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/commemorativeDates_form.tpl",
+				"/var/www/html/maisquitanda/admin/language/portuguese-br/catalog/commemorativeDates.php",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/journal2/headers/default.tpl",
+				"/var/www/html/maisquitanda/catalog/controller/common/header.php",
+				"/var/www/html/maisquitanda/catalog/model/catalog/commemorativeDates.php",
+				"/var/www/html/maisquitanda/.htaccess",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/product/bundle_gift.tpl",
+				"/var/www/html/maisquitanda/admin/model/tool/image.php",
+				"/var/www/html/maisquitanda/catalog/view/theme/default/template/common/header.tpl",
+				"/var/www/html/maisquitanda/catalog/view/theme/default/template/product/category.tpl",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/product/bundle.tpl",
+				"/var/www/html/maisquitanda/admin/controller/common/header.php",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/bundle_add.tpl",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/dayOff_list.tpl",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/product_list.tpl",
+				"/var/www/html/maisquitanda/system/library/date.php",
+				"/var/www/html/maisquitanda/system/startup.php",
+				"/var/www/html/maisquitanda/system/library/affiliate.php",
+				"/var/www/html/maisquitanda/system/journal2/startup.php",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/bundle_products.tpl",
+				"/var/www/html/maisquitanda/admin/view/journal2/lib/ckeditor/ckeditor.js",
+				"/var/www/html/maisquitanda/admin/language/portuguese-br/catalog/dayOff.php",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/product_form.tpl",
+				"/var/www/html/maisquitanda/admin/controller/catalog/dayOff.php",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/manufacturer_form.tpl",
+				"/var/www/html/maisquitanda/admin/view/template/catalog/manufacturer_list.tpl",
+				"/var/www/html/maisquitanda/admin/language/portuguese-br/catalog/manufacturer.php",
+				"/var/www/html/maisquitanda/admin/controller/catalog/manufacturer.php",
+				"/var/www/html/maisquitanda/admin/model/catalog/manufacturer.php",
+				"/var/www/html/maisquitanda/admin/view/template/common/footer.tpl",
+				"/var/www/html/maisquitanda/admin/view/journal2/tpl/settings/footer.tpl",
+				"/var/www/html/maisquitanda/catalog/view/theme/default/template/common/footer.tpl",
+				"/var/www/html/maisquitanda/install/view/template/footer.tpl",
+				"/var/www/html/maisquitanda/system/journal2/classes/journal2_utils.php",
+				"/var/www/html/maisquitanda/catalog/model/journal2/menu.php",
+				"/var/www/html/maisquitanda/admin/view/template/common/menu.tpl",
+				"/var/www/html/maisquitanda/admin/controller/common/menu.php",
+				"/var/www/html/maisquitanda/admin/language/portuguese-br/common/menu.php",
+				"/var/www/html/maisquitanda/admin/model/catalog/DayOff.php",
+				"/var/www/html/maisquitanda/admin/view/journal2/tpl/home.tpl",
+				"/var/www/html/maisquitanda/catalog/view/theme/journal2/template/common/home.tpl",
+				"/var/www/html/maisquitanda/admin/model/journal2/catalog.php",
+				"/var/www/html/maisquitanda/admin/config.php",
+				"/var/www/html/maisquitanda/config.php",
+				"/var/www/html/wyfit/app/libraries/MyFiles.php",
+				"/var/www/html/join3/application/join2012/views/form_view.php",
+				"/var/www/html/join3/css/list.css",
+				"/var/www/html/join3/application/join2012/controllers/processamento.php",
+				"/var/www/html/join3/application/join2012/models/menu_model.php",
+				"/var/www/html/join3/application/join2012/views/error_view.php",
+				"/var/www/html/join3/assets/admin/layout/css/custom.css",
+				"/var/www/html/join3/application/join2012/views/header_view.php",
+				"/var/www/html/join3/css/prelude.css",
+				"/var/www/html/join3/application/join2012/controllers/novo_processamento/processamento.php",
+				"/var/www/html/join3/application/join2012/models/novo_processamento/processamento_model.php",
+				"/var/www/html/join3/application/join2012/views/novo_processamento/index.php",
+				"/var/www/html/join3/application/join2012/views/login_view.php",
+				"/var/www/html/join3/application/join2012/views/popup_view.php",
+				"/var/www/html/join3/css/all.css",
+				"/var/www/html/join3/css/progress.css",
+				"/var/www/html/join3/application/join2012/views/partials/_head_css.php",
+				"/var/www/html/join3/css/form.css",
+				"/var/www/html/join3/application/join2012/views/list_view.php",
+				"/var/www/html/join3/js/functions.js",
+				"/var/www/html/join3/application/join2012/views/gdm/home_view.php",
+				"/var/www/html/join3/application/join2012/controllers/home.php",
+				"/var/www/html/join3/application/join2012/controllers/lote_importado.php",
+				"/var/www/html/join3/application/join2012/models/lote_importado_model.php",
+				"/var/www/html/join3/application/join2012/controllers/security/home.php",
+				"/var/www/html/join3/application/join2012/controllers/usuario_permissao.php",
+				"/var/www/html/join3/application/join2012/helpers/util_helper.php",
+				"/var/www/html/join3/system/core/Controller.php",
+				"/var/www/html/join3/application/join2012/controllers/novo_processamento/processamento",
+				"/var/www/html/join3/application/join2012/views/pacote_view.php",
+				"/var/www/html/join3/application/join2012/models/lote_processamento_model.php",
+				"/var/www/html/join3/application/join2012/third_party/amfphp/Services/service_processar_pids.php",
+				"/var/www/html/join3/application/join2012/controllers/layouts/claro_ponto_virgula.php",
+				"/var/www/html/join3/application/join2012/controllers/tipos_solicitacao.php",
+				"/var/www/html/join3/application/join2012/models/pacote_model.php",
+				"/var/www/html/join3/application/join2012/controllers/pacote.php",
+				"/var/www/html/join3/application/join2012/models/protocolo_model.php",
+				"/var/www/html/join3/js/dynamicform.js",
+				"/var/www/html/join3/application/join2012/controllers/protocolo.php",
+				"/var/www/html/join3/application/join2012/models/tipos_solicitacao_model.php",
+				"/var/www/html/join3/application/join2012/views/footer_view.php",
+				"/var/www/html/join3/application/join2012/third_party/amfphp/Services/service_historico_atualizacao.php",
+				"/var/www/html/join3/application/join2012/views/partials/_pagefooter.php",
+				"/var/www/html/join3/application/join2012/views/security/login_view.php",
+				"/var/www/html/progressbar.php",
+				"/var/www/html/join3/application/join2012/views/home_users_view.php",
+				"/var/www/html/join3/application/join2012/models/login_model.php",
+				"/var/www/html/join3/application/join2012/views/home_admins_view.php",
+				"/var/www/html/join3/assets/admin/pages/css/search.css",
+				"/var/www/html/angularJs.php",
+				"/var/www/html/join3/css/facebox.css",
+				"/var/www/html/join3/assets/global/plugins/datatables/extensions/FixedHeader/examples/header_footer.html",
+				"/var/www/html/drag.php",
+				"/home/luis/.config/sublime-text-3/Packages/phpfmt/phpfmt.sublime-settings"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/var/www/html/maisquitanda/",
+					"/var/www/html/maisquitanda/system/library",
+					"/var/www/html/maisquitanda",
+					"/var/www/html/join3/js",
+					"/var/www/html/join3/css",
+					"/var/www/html/join3",
+					"/var/www/html/join3/application/join2012",
+					"/var/www/html/join3/js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sort_title",
+					"sort_name",
+					"$sort_name",
+					"$sort",
+					"WHERE",
+					"767",
+					"background:url(../images/mais-quitanda-mais-que-presente-dia-dos-namorados-kit.jpg?v=20160513)no-repeat center;",
+					".banner-mais-presente-tematico",
+					"column_title",
+					"title_banner",
+					"sort_title_banner",
+					"title_banner",
+					"sort_title_banner",
+					"title_banner",
+					"title",
+					"list",
+					"description",
+					"sub_title",
+					"title",
+					"sub_title",
+					"title",
+					"=",
+					"\n$",
+					"';\n",
+					"title_banner",
+					"title",
+					"img",
+					"    \n",
+					"();\n",
+					"spacial",
+					"php",
+					"dia",
+					"Dia dos Namorados",
+					"Dia dos Namorados ",
+					"title",
+					"name",
+					"getCommemorativeDates",
+					"sort_name",
+					"getCommemorativeDates",
+					"validateDelete",
+					"id",
+					"resize",
+					"CommemorativeDates_id",
+					"		if ((utf8_strlen($this->request->post['img_banner']) < 2) || (utf8_strlen($this->request->post['img_banner']) > 64)) {\n			$this->error['img_banner'] = $this->language->get('error_img_banner');\n		}\n\n	if ((utf8_strlen($this->request->post['img_campaign']) < 2) || (utf8_strlen($this->request->post['img_campaign']) > 64)) {\n			$this->error['img_campaign'] = $this->language->get('error_img_campaign');\n		}",
+					"getCommemorativeDate",
+					"?>\n",
+					"commemorativeDates_id",
+					"				\n",
+					"title",
+					"db",
+					"static",
+					"');\n",
+					"db",
+					"static",
+					"benner",
+					"img_banner",
+					"error_img_banner",
+					"img_banner",
+					"date",
+					"error_date",
+					"date",
+					"error_date",
+					"date",
+					" {",
+					") ",
+					"img_benner",
+					"img",
+					"img_",
+					"img_benner",
+					"></",
+					"img_ca",
+					"img_benner",
+					"date",
+					"title",
+					"name",
+					"input-date-available",
+					"date_available",
+					"entry_date_available",
+					"date_available",
+					"date",
+					"error_title",
+					"title",
+					"error_title",
+					"title",
+					"error_title",
+					"title",
+					"error_keyword",
+					"title",
+					"thumb",
+					"model_tool_image",
+					"image",
+					"DIR_IMAGE",
+					"name",
+					"');\n",
+					"title",
+					"note",
+					"textare",
+					"text",
+					"input-description2",
+					"textarea",
+					"name",
+					"');\n",
+					"name",
+					"';\n",
+					"CommemorativeDates_id",
+					"model_catalog_CommemorativeDates",
+					"model_catalog_commemorativeDates",
+					"CommemorativeDates_total",
+					"catalog/CommemorativeDates",
+					"/CommemorativeDates",
+					"CommemorativeDates",
+					"catalog/CommemorativeDates",
+					"/CommemorativeDates",
+					"model_catalog_CommemorativeDates",
+					"getTotalCommemorativeDates",
+					"'CommemorativeDates",
+					"\"CommemorativeDates",
+					"CommemorativeDates",
+					"getTotalCommemorativeDatess",
+					"manufacturer",
+					"manufacturers",
+					"marcas",
+					"Marcas",
+					"manufacturer",
+					"Manufacturer",
+					"manufacturer",
+					"Manufacturer",
+					"manufacturer"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/var/www/html/utilsphp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/luis/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 215,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										180,
+										180
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,1366,24,2006,474,2732,768",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"commemorative",
+						"admin/controller/catalog/commemorativeDates.php"
+					],
+					[
+						"menu",
+						"admin/language/portuguese-br/common/menu.php"
+					],
+					[
+						"comemorativedates",
+						"admin/language/portuguese-br/catalog/commemorativeDates.php"
+					],
+					[
+						"dayoff",
+						"admin/view/template/catalog/dayOff_form.tpl"
+					],
+					[
+						"modeldayoff",
+						"admin/model/catalog/dayOff.php"
+					],
+					[
+						"custom.min",
+						"catalog/view/theme/journal2/css/custom.min.css"
+					],
+					[
+						"commemorativedates_l",
+						"admin/view/template/catalog/commemorativeDates_list.tpl"
+					],
+					[
+						"comme",
+						"admin/model/catalog/commemorativeDates.php"
+					],
+					[
+						"commemo",
+						"admin/language/portuguese-br/catalog/commemorativeDates.php"
+					],
+					[
+						"tool/image",
+						"admin/model/tool/image.php"
+					],
+					[
+						"commemorativedates_for",
+						"admin/view/template/catalog/commemorativeDates_form.tpl"
+					],
+					[
+						"he",
+						"catalog/view/theme/journal2/template/common/header.tpl"
+					],
+					[
+						"header.t",
+						"catalog/view/theme/default/template/common/header.tpl"
+					],
+					[
+						"default/template/product/",
+						"catalog/view/theme/default/template/product/category.tpl"
+					],
+					[
+						"common/header",
+						"catalog/controller/common/header.php"
+					],
+					[
+						"bundle_gift",
+						"catalog/view/theme/journal2/template/product/bundle_gift.tpl"
+					],
+					[
+						"bundle_gifts.tpl",
+						"catalog/view/theme/journal2/template/product/bundle_gifts.tpl"
+					],
+					[
+						".ht",
+						".htaccess"
+					],
+					[
+						"product/b",
+						"catalog/view/theme/journal2/template/product/bundle_gifts.tpl"
+					],
+					[
+						"product/bundle.tpl",
+						"catalog/view/theme/journal2/template/product/bundle.tpl"
+					],
+					[
+						"common/he",
+						"catalog/controller/common/header.php"
+					],
+					[
+						"commer",
+						"admin/model/catalog/commemorativeDates.php"
+					],
+					[
+						"/bundle_gifts.tpl",
+						"catalog/view/theme/journal2/template/product/bundle_gifts.tpl"
+					],
+					[
+						"budle",
+						"catalog/controller/product/bundle.php"
+					],
+					[
+						"bundle",
+						"catalog/view/theme/journal2/template/product/bundle_gifts.tpl"
+					],
+					[
+						"day",
+						"admin/model/catalog/dayOff.php"
+					],
+					[
+						"dayoff_lis",
+						"admin/view/template/catalog/dayOff_list.tpl"
+					],
+					[
+						"roduct_list",
+						"admin/view/template/catalog/product_list.tpl"
+					],
+					[
+						"start",
+						"system/journal2/startup.php"
+					],
+					[
+						"date",
+						"system/library/Date.php"
+					],
+					[
+						"bundle_ad",
+						"admin/view/template/catalog/bundle_add.tpl"
+					],
+					[
+						"budel_",
+						"admin/view/template/catalog/bundle_products.tpl"
+					],
+					[
+						"language/comm",
+						"admin/language/portuguese-br/catalog/commemorativeDates.php"
+					],
+					[
+						"language/day",
+						"admin/language/portuguese-br/catalog/dayOff.php"
+					],
+					[
+						"dayoff_",
+						"admin/view/template/catalog/dayOff_form.tpl"
+					],
+					[
+						"pro",
+						"admin/view/template/catalog/product_form.tpl"
+					],
+					[
+						"product_f",
+						"admin/view/template/catalog/product_form.tpl"
+					],
+					[
+						"manufacturer",
+						"admin/view/template/catalog/manufacturer_list.tpl"
+					],
+					[
+						"foo",
+						"catalog/view/theme/default/template/common/footer.tpl"
+					],
+					[
+						"footer",
+						"install/view/template/footer.tpl"
+					],
+					[
+						"lendayoff",
+						"admin/language/portuguese-br/catalog/dayOff.php"
+					],
+					[
+						"viewemenu",
+						"admin/view/template/common/menu.tpl"
+					],
+					[
+						"men",
+						"admin/controller/common/menu.php"
+					],
+					[
+						"manu",
+						"admin/controller/catalog/manufacturer.php"
+					],
+					[
+						"home",
+						"admin/view/journal2/tpl/home.tpl"
+					],
+					[
+						"catalo",
+						"admin/model/journal2/catalog.php"
+					],
+					[
+						"con",
+						"config.php"
+					],
+					[
+						"startup",
+						"system/startup.php"
+					],
+					[
+						"form_v",
+						"application/join2012/views/form_view.php"
+					],
+					[
+						"list_view",
+						"application/join2012/views/list_view.php"
+					],
+					[
+						"form_vie",
+						"application/join2012/views/form_view.php"
+					],
+					[
+						"form_list_view",
+						"application/join2012/views/form_list_view.php"
+					],
+					[
+						"lote_v",
+						"application/join2012/controllers/lote_movto.php"
+					],
+					[
+						"",
+						"css/prelude.css"
+					],
+					[
+						"prel",
+						"css/prelude.css"
+					],
+					[
+						"list",
+						"css/list.css"
+					],
+					[
+						"politica",
+						"application/join2012/views/politica_view.php"
+					],
+					[
+						"pre",
+						"css/prelude.css"
+					],
+					[
+						"custo",
+						"assets/admin/layout/css/custom.css"
+					],
+					[
+						"lisc",
+						"css/list.css"
+					],
+					[
+						"head",
+						"application/join2012/views/header_view.php"
+					],
+					[
+						"erro_v",
+						"application/join2012/views/error_view.php"
+					],
+					[
+						"processa",
+						"application/join2012/controllers/processamento.php"
+					],
+					[
+						"login",
+						"application/join2012/views/login_view.php"
+					],
+					[
+						"pop",
+						"application/join2012/views/popup_view.php"
+					],
+					[
+						"cust",
+						"assets/admin/layout/css/custom.css"
+					],
+					[
+						"all",
+						"css/all.css"
+					],
+					[
+						"progres",
+						"css/progress.css"
+					],
+					[
+						"list_v",
+						"application/join2012/views/list_view.php"
+					],
+					[
+						"home_v",
+						"application/join2012/views/gdm/home_view.php"
+					],
+					[
+						"form",
+						"css/form.css"
+					],
+					[
+						"_css",
+						"application/join2012/views/partials/_head_css.php"
+					],
+					[
+						"processamento_model",
+						"application/join2012/models/novo_processamento/processamento_model.php"
+					],
+					[
+						"lote",
+						"application/join2012/models/lote_importado_model.php"
+					],
+					[
+						"lote_imo",
+						"application/join2012/controllers/lote_importado.php"
+					],
+					[
+						"lotes_import",
+						"application/join2012/controllers/lote_importado.php"
+					],
+					[
+						"per",
+						"application/join2012/controllers/usuario_permissao.php"
+					],
+					[
+						"process",
+						"application/join2012/third_party/amfphp/Services/service_processar_pids.php"
+					],
+					[
+						"login_",
+						"application/join2012/views/login_view.php"
+					],
+					[
+						"pacote_view",
+						"application/join2012/views/pacote_view.php"
+					],
+					[
+						"pacote",
+						"application/join2012/controllers/pacote.php"
+					],
+					[
+						"pacote_mode",
+						"application/join2012/models/pacote_model.php"
+					],
+					[
+						"dynamicform",
+						"js/dynamicform.js"
+					],
+					[
+						"protoco",
+						"application/join2012/controllers/protocolo.php"
+					],
+					[
+						"fun",
+						"js/functions.js"
+					],
+					[
+						"proto",
+						"application/join2012/models/protocolo_model.php"
+					],
+					[
+						"tipo",
+						"application/join2012/controllers/tipos_solicitacao.php"
+					],
+					[
+						"protoc",
+						"application/join2012/controllers/protocolo.php"
+					],
+					[
+						"protocolo_",
+						"application/join2012/models/protocolo_model.php"
+					],
+					[
+						"visitor",
+						"application/join2012/third_party/amfphp/Services/service_historico_atualizacao.php"
+					],
+					[
+						"_pagef",
+						"application/join2012/views/partials/_pagefooter.php"
+					],
+					[
+						"func",
+						"js/functions.js"
+					],
+					[
+						"login_v",
+						"application/join2012/views/security/login_view.php"
+					],
+					[
+						"heda",
+						"application/join2012/views/header_view.php"
+					],
+					[
+						"home_a",
+						"application/join2012/views/home_admins_view.php"
+					],
+					[
+						"home_",
+						"application/join2012/views/home_admins_view.php"
+					],
+					[
+						"home_user",
+						"application/join2012/views/home_users_view.php"
+					],
+					[
+						"_pa",
+						"application/join2012/views/partials/_pagefooter.php"
+					],
+					[
+						"home_view",
+						"application/join2012/views/home_admins_view.php"
+					],
+					[
+						"home_vi",
+						"application/join2012/views/gdm/home_view.php"
+					],
+					[
+						"search",
+						"assets/admin/pages/css/search.css"
+					],
+					[
+						"menu_mo",
+						"application/join2012/models/menu_model.php"
+					],
+					[
+						"application/join2012/views/footer_view.php",
+						"application/join2012/views/footer_view.php"
+					],
+					[
+						"application/join2012/views/login_view.php",
+						"application/join2012/views/login_view.php"
+					],
+					[
+						"css/facebox.css",
+						"css/facebox.css"
+					],
+					[
+						"css/form.css",
+						"css/form.css"
+					],
+					[
+						"css/list.css",
+						"css/list.css"
+					],
+					[
+						"js/dynamicform.js",
+						"js/dynamicform.js"
+					],
+					[
+						"foot",
+						"application/join2012/views/footer_view.php"
+					],
+					[
+						"_footer",
+						"assets/global/plugins/datatables/extensions/FixedHeader/examples/header_footer.html"
+					],
+					[
+						"util",
+						"application/join2012/helpers/util_helper.php"
+					],
+					[
+						"ho",
+						"application/join2012/controllers/home.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 12,
 			"workspace_name": ""
 		}
 	],
