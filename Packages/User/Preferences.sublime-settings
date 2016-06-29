@@ -1,10 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Aurora (SL).tmTheme",
-	"font_size": 13,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"material_theme": true,
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Seti.sublime-theme"
