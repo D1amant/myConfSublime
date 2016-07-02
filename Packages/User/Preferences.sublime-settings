@@ -8,5 +8,11 @@
 	"material_theme": true,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Seti.sublime-theme"
+	"theme": "Seti.sublime-theme",	
+	"attr": {
+      "author": "Luis Fernando" ,
+      "email": "luisbluex@gmail.com",
+      "link": "https://github.com/D1amant"
+     
+  }
 }

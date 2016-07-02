@@ -41,6 +41,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"SublimeTmpl",
 		"SummitLinter",
 		"Terminal",
 		"Tpl"
