@@ -1,18 +1,17 @@
 {
+	"attr":
+	{
+		"author": "Luis Fernando",
+		"email": "luisbluex@gmail.com",
+		"link": "https://github.com/D1amant"
+	},
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 11,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"material_theme": true,
 	"show_encoding": true,
-	"show_line_endings": true,
-	"theme": "Seti.sublime-theme",	
-	"attr": {
-      "author": "Luis Fernando" ,
-      "email": "luisbluex@gmail.com",
-      "link": "https://github.com/D1amant"
-     
-  }
+	"show_line_endings": true
 }
