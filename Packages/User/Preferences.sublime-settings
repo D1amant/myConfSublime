@@ -5,13 +5,15 @@
 		"email": "luisbluex@gmail.com",
 		"link": "https://github.com/D1amant"
 	},
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Kronuz (SL).tmTheme",
 	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"material_theme": true,
 	"show_encoding": true,
-	"show_line_endings": true
+	"show_line_endings": true,
+	"theme": "Theme - Kronuz.sublime-theme"
 }
